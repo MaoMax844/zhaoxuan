@@ -1,4 +1,4 @@
-# 罩轩
+# 罩轩/zhaoxuan
 自用，仅供娱乐，切勿二次分发！  
 
 # 玩手机
@@ -12,8 +12,8 @@
 # 猎奇-1
 太猎奇了建议别看  
 ![v1](v1.mp4)
-Can't load this video!  
+视频在github看不了，要下载才能看
 # 猎奇-2
 太猎奇了建议别看  
 ![v2](v2.mp4)
-Can't load this video!
+视频在github看不了，要下载才能看
