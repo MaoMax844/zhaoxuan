@@ -10,6 +10,10 @@
 # 帅哥
 ![帅哥](4.jpg)
 # 猎奇-1
+太猎奇了建议别看  
 ![v1](v1.mp4)
+Can't load this video!  
 # 猎奇-2
+太猎奇了建议别看  
 ![v2](v2.mp4)
+Can't load this video!
